@@ -35,7 +35,7 @@ Users should be able to:
 
 During this project, I gained a deeper understanding of how to structure a responsive web layout using Flexbox. One key learning was the implementation of media queries to adjust the layout based on screen size. For example, I used the following code to change the flex direction from row to column on smaller screens:
 
-```css
+css
 @media (max-width: 640px) {
   .card {
     flex-direction: column;
@@ -79,4 +79,4 @@ In future projects, I plan to continue focusing on improving my responsiveness s
 ## Acknowledgments
 
 I would like to thank the developers and designers whose resources and tutorials inspired me to complete this project. Special thanks to the online communities and forums where I found valuable tips and support.
-```
+
